@@ -28,7 +28,7 @@ function modalBody () {
         buttonClose.addEventListener('click', () =>{
             myWindow.close();
             //close all actions of the modal window
-            myModalWindow.style.display = "none";
+            modal.style.display = "none";
         });
     });
 }
