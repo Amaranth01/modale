@@ -9,7 +9,6 @@ html {
 }
 
 #modal-window {
-    display: flex;
     margin-left: 15rem;
     border: indigo 2px double;
     border-radius: 5px 5px 5px 5px;
